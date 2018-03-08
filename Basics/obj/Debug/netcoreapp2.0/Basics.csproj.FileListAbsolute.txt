@@ -1,0 +1,11 @@
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.deps.json
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.runtimeconfig.json
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.runtimeconfig.dev.json
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.dll
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.pdb
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.csprojResolveAssemblyReference.cache
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.csproj.CoreCompileInputs.cache
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.AssemblyInfoInputs.cache
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.AssemblyInfo.cs
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.dll
+/Users/jonahzukosky/Desktop/Projects/C#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.pdb
